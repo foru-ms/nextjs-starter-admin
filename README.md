@@ -1,4 +1,4 @@
-This is a [Foru.ms](https://foru.ms/) Next.js starter bootstrapped with the minimal endpoints to get you started.
+This is a [Foru.ms](https://foru.ms/) Next.js admin starter bootstrapped with the minimal endpoints to get you started.
 
 ## Getting Started
 
